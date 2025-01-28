@@ -10,7 +10,7 @@ public class continueExample {
             if (num % 10 == 0) {
             continue;
         } 
-        System.out.println("the num is :" +num);
+        System.out.println("the num is : " +num);
     }while (true);
     }
 }
