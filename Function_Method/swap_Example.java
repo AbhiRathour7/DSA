@@ -2,7 +2,7 @@ package Function_Method;
 
 public class swap_Example {
     
-    public static void swap(int a, int b){
+    public static void swap(int a, int b){ // copy of original value
         int temp=a;
         a=b;
         b=temp;
